@@ -1,4 +1,9 @@
 Initial Commit
+Edit on branch meld
+Initial Commit
+Edit on branch meld
+Initial Commit
+Edit on branch meld
 Initial Commit
 Initial Commit
 Initial Commit
@@ -11,11 +16,10 @@ Initial Commit
 Initial Commit
 Initial Commit
 Initial Commit
+Edit on branch meld
 Initial Commit
+Edit on branch meld
 Initial Commit
-Initial Commit
-Initial Commit
-Initial Commit
-Initial Commit
+Edit on branch meld
 Initial Commit
 Codelab for Git Mergetool from http://www.artit-k.com/git-mergetool-for-merge-code-with-gui-by-kdiff3-and-meld
